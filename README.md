@@ -55,3 +55,28 @@ data-preprocessing-feature-engineering/
 ├── preprocessed_data.csv
 ├── requirements.txt
 └── README.md
+```
+## Running the Project
+
+## Running the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/joeyfarruggia/data-preprocessing-feature-engineering.git
+cd data-preprocessing-feature-engineering
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the program
+
+```bash
+python data_preprocessing.py
+```
+
+The program reads `original_data.csv`, processes the dataset, and saves the completed output to `preprocessed_data.csv`.
