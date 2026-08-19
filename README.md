@@ -80,3 +80,47 @@ python data_preprocessing.py
 ```
 
 The program reads `original_data.csv`, processes the dataset, and saves the completed output to `preprocessed_data.csv`.
+
+## What the Program Reports
+
+When the pipeline runs, it displays useful information about the transformation process, including:
+
+- Original row and column counts
+- Number of duplicate rows removed
+- Missing values before and after cleaning
+- Detected date columns
+- Newly engineered features
+- Original and processed dataset dimensions
+- The first five processed records
+
+## What I Practiced
+
+This project strengthened my experience with:
+
+- Structuring Python programs into reusable functions
+- Working with pandas DataFrames
+- Cleaning inconsistent datasets
+- Handling missing numeric and categorical values
+- Detecting and transforming date information
+- Creating engineered features from existing data
+- Handling file and parsing errors
+- Saving reproducible processed datasets
+
+## Future Improvements
+
+Possible future enhancements include:
+
+- Command-line arguments for custom input and output files
+- Automated data-quality reports
+- Data visualization of preprocessing results
+- Additional categorical encoding options
+- Feature scaling and normalization
+- Automated unit tests for individual preprocessing functions
+
+## Author
+
+**Joey Farruggia**
+
+[Portfolio](https://joeyfarruggia.github.io) •
+[GitHub](https://github.com/joeyfarruggia) •
+[LinkedIn](https://www.linkedin.com/in/joeyfarruggia/)
