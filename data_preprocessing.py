@@ -1,5 +1,5 @@
 """
-Data Preprocessing and Feature Engineering Assignment
+Data Preprocessing and Feature Engineering Pipeline
 
 This program:
 1. Loads a CSV dataset using pandas.
