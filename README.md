@@ -50,13 +50,15 @@ The program follows a structured pipeline:
 ```text
 data-preprocessing-feature-engineering/
 │
+├── .gitattributes
+├── .gitignore
+├── README.md
 ├── data_preprocessing.py
 ├── original_data.csv
 ├── preprocessed_data.csv
-├── requirements.txt
-└── README.md
+└── requirements.txt
+
 ```
-## Running the Project
 
 ## Running the Project
 
